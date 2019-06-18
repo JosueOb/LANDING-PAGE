@@ -1,7 +1,7 @@
 @import 'variables';
 @import 'mixins';
+
+@import 'base';
 // @import 'navbar';
 @import 'navbar-jos';
-body{
-    background-color: rgba($color: #000000, $alpha: 0.75)
-}
+@import 'header';

@@ -14,7 +14,7 @@
     }
     .navbar-brand{
         // border: 1px red solid;
-        color: $blue-800;
+        color: $white;
         text-transform: uppercase;
         font-weight: 700;
         @include script-font;
@@ -22,7 +22,7 @@
         &:active,
         &:focus,
         &:hover{
-            color: $white;
+            color: $yellow-500;
         }
     }
     .navbar-nav{
@@ -71,7 +71,7 @@
         &.navbar-shrink {
             padding-top: 0;
             padding-bottom: 0;
-            background-color: $gray-900;
+            background-color: $blue-800;
             .navbar-brand {
               font-size: 1.25em;
               padding: 12px 0;

@@ -101,7 +101,7 @@ header.masthead {
   background-position: center center;
   background-size: cover; }
   header.masthead .intro-text {
-    padding-top: 185px;
+    padding-top: 190px;
     padding-bottom: 185px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 22px;
@@ -118,8 +118,8 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px; }
+    padding-top: 345px;
+    padding-bottom: 225px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
       font-style: italic;
